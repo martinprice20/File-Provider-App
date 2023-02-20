@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">File Provider App</string>
+    <string name="file_select_label">File Selector</string>
+    <string name="file_name_autofill_hint">Set the file name</string>
+    <string name="file_content_autofill_hint">Create the file content</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="save">Save</string>
+    <string name="write_some_file_content">Write some file content</string>
+    <string name="finish">Finish</string>
+</resources>
